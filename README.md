@@ -3,9 +3,9 @@
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [to be done...](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab using Powershell](https://github.com/ayushmak7/ActiveDirectoryHomeLab/)
 - <b>Securing Cloud Applications</b>
-  - [Azure](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Azure](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b>
  
 <h2>📄Certifications</h2>
 
