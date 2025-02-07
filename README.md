@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab using Powershell](https://github.com/ayushmak7/ActiveDirectoryHomeLab/)
 - <b>Securing Cloud Applications</b>
-  - [Azure](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b>
+  - [Securing Cloud Applications using Azure](https://github.com/ayushmak7/Securing-Cloud-Apps-Azure/)<b>
  
 <h2>📄Certifications</h2>
 
