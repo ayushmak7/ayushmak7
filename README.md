@@ -18,9 +18,6 @@
 
 - [Mastercard, Cybersecurity Virtual Internship on Forage](https://drive.google.com/file/d/1Wyu-_Ut326uaKy6RiefUdE6SaLw4puCb/view?usp=sharing)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/)
   
 <h2> 🤳 Connect with me:</h2>
 
