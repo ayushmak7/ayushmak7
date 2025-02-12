@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab using Powershell](https://github.com/ayushmak7/ActiveDirectoryHomeLab/)
 - <b>Securing Cloud Applications</b>
-  - [Securing Cloud Applications using Azure](https://github.com/ayushmak7/Securing-Cloud-Apps-Azure/)<b>
+  - [Securing Cloud Applications using Azure](https://github.com/ayushmak7/Securing-Cloud-Apps-Azure/)
 - <b>Phishing Tool Implementation</b>
   - [Phishing Tool Implementation using Zphisher](https://github.com/ayushmak7/Phishing-Tool-Implementation/)
  
