@@ -8,8 +8,8 @@
   - [Launching and Securing Cloud Applications using Azure](https://github.com/ayushmak7/Securing-Cloud-Apps-Azure/)
 - <b>Phishing Tool Implementation</b>
   - [Phishing Tool Implementation using Zphisher](https://github.com/ayushmak7/Phishing-Tool-Implementation/)
-- <b>Splunk SIEM Log Analysis</b>
-  - [Splunk SIEM](https://github.com/ayushmak7/Splunk-SIEM-Defensive-Project/)
+- <b>Splunk SIEM -Defensive Project</b>
+  - [Splunk SIEM - Monitoring Solution Project](https://github.com/ayushmak7/Splunk-SIEM-Defensive-Project/)
  
 <h2>📄Certifications</h2>
 
