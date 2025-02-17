@@ -6,10 +6,10 @@
   - [Active Directory Home Lab using Powershell](https://github.com/ayushmak7/ActiveDirectoryHomeLab/)
 - <b>System Design & Deployment</b>
   - [Launching and Securing Cloud Applications using Azure](https://github.com/ayushmak7/Securing-Cloud-Apps-Azure/)
-- <b>Phishing Tool Implementation</b>
-  - [Phishing Tool Implementation using Zphisher](https://github.com/ayushmak7/Phishing-Tool-Implementation/)
 - <b>Defensive Project- Splunk SIEM</b>
   - [Splunk SIEM - Monitoring Solution Project](https://github.com/ayushmak7/Splunk-SIEM-Defensive-Project/)
+- <b>Phishing Tool Implementation</b>
+  - [Phishing Tool Implementation using Zphisher](https://github.com/ayushmak7/Phishing-Tool-Implementation/)
  
 <h2>📄Certifications</h2>
 
