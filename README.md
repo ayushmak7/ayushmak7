@@ -1,5 +1,9 @@
 <h1>Hi👋 I'm Ayushma! <br/><a href="https://www.linkedin.com/in/ayushma-k/">Aspiring Cybersecurity Professional</a></h1>
 
+**Happy you're here!** 🤗<br>
+This portfolio showcases my hands-on projects reflecting my commitment to continuous learning and innovation in the ever-evolving tech field.
+
+
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
