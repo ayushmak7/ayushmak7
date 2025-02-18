@@ -13,8 +13,9 @@
  
 <h2>📄Certifications</h2>
 
-- <b>[CompTIA Security+](https://www.credly.com/badges/c875f98a-f22a-49a4-a730-312b16f85a06/public_url)
-- George Washington University Cybersecurity Bootcamp</b>
+- <b>[CompTIA Security+](https://www.credly.com/badges/c875f98a-f22a-49a4-a730-312b16f85a06/public_url)</b>
+- <b>Cybersecurity Boot Camp</b> - George Washington University 
+- <b>LPI Linux Essentials</b> (pending)
 
 <h2>💼Internships</h2>
 
