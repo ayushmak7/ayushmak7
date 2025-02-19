@@ -22,8 +22,9 @@ This portfolio showcases my hands-on projects reflecting my commitment to contin
 
 <h2>🏫Education</h2>
 
+- George Washington University - <b>Cybersecurity Boot Camp</b>
 - Virginia Commonwealth University - Bachelor of Science
--  George Washington University - <b>Cybersecurity Boot Camp</b> 
+
 
 <h2>💼Internships</h2>
 
