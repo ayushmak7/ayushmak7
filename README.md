@@ -15,23 +15,23 @@ This portfolio showcases my hands-on projects reflecting my commitment to contin
 - <b>Phishing Tool Implementation</b>
   - [Phishing Tool Implementation using Zphisher](https://github.com/ayushmak7/Phishing-Tool-Implementation/)
  
-<h2>📄Certifications</h2>
+<h2>📄 Certifications</h2>
 
 - <b>[CompTIA Security+](https://www.credly.com/badges/c875f98a-f22a-49a4-a730-312b16f85a06/public_url)</b>
 - <b>LPI Linux Essentials</b> (pending)
 
-<h2>🏫Education</h2>
+<h2>🏫 Education</h2>
 
 - George Washington University - <b>Cybersecurity Boot Camp</b>
 - Virginia Commonwealth University - Bachelor of Science
 
 
-<h2>💼Internships</h2>
+<h2>💼 Internships</h2>
 
 - [Mastercard, Cybersecurity Virtual Internship on Forage](https://drive.google.com/file/d/1Wyu-_Ut326uaKy6RiefUdE6SaLw4puCb/view?usp=sharing)
 
   
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="ayushma-k | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
