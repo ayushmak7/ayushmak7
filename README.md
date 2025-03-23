@@ -1,4 +1,4 @@
-<h1>Hi👋 <a href="https://www.linkedin.com/in/ayushma-k/">I'm Ayushma!</a><br>A Cybersecurity Professional</h1>
+<h1>Hi👋 <a href="https://www.linkedin.com/in/ayushma-k/">I'm Ayushma!</a><br></h1>
 
 **Happy you're here!** 🤗<br>
 This portfolio showcases my hands-on projects reflecting my commitment to continuous learning and innovation in the ever-evolving tech field.
