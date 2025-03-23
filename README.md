@@ -8,7 +8,7 @@ This portfolio showcases my hands-on projects reflecting my commitment to contin
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab using Powershell](https://github.com/ayushmak7/ActiveDirectoryHomeLab/)
-- <b>System Design & Deployment</b>
+- <b>Securing Cloud Apps</b>
   - [Launching and Securing Cloud Applications using Azure](https://github.com/ayushmak7/Securing-Cloud-Apps-Azure/)
 - <b>Defensive Project</b>
   - [Splunk SIEM - Monitoring Solution Project](https://github.com/ayushmak7/Splunk-SIEM-Defensive-Project/)
