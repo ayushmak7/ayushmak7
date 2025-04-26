@@ -18,7 +18,7 @@ This portfolio showcases my hands-on projects reflecting my commitment to contin
 <h2>📄 Certifications</h2>
 
 - <b>[CompTIA Security+ CE](https://www.credly.com/badges/c875f98a-f22a-49a4-a730-312b16f85a06/public_url)</b>
-- <b>LPI Linux Essentials</b> (pending)
+- <b>LPI Linux Essentials</b> 
 
 <h2>🏫 Education</h2>
 
